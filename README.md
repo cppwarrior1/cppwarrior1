@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cppwarrior1</h1>
+<h1 align="center">Hi 👋, I'm cppwarrior</h1>
 
 <p align="left">
 </p>
